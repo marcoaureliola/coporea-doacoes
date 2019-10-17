@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');*
+{
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.jumbotron{
+	background-image: url(img/vitrine.jpg);
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+}
