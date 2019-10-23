@@ -9,3 +9,24 @@
 	background-position: center;
 	color: #fff;
 }
+
+.menu-icon
+{
+	width: 5vw;
+	border: none;
+}
+
+.social
+{
+	width: 2vw;
+}
+
+.facebook
+{
+	padding-left: 50vw;
+}
+
+.twitter, .instagram
+{
+	padding-left: 2vw;
+}
