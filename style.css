@@ -10,6 +10,11 @@
 	color: #fff;
 }
 
+img
+{
+	border-radius: 10vw;
+}
+
 .menu-icon
 {
 	width: 5vw;
@@ -31,9 +36,20 @@
 	padding-left: 2vw;
 }
 
-h4{
-	color: red;
+h4
+{
+	color: #8B0000;
 }
-.sangue{
-	margin: 10px;
+
+.div
+{
+	padding-top: 2vw;
+	padding-bottom: 1vw;
+	color: #8B0000;
+}
+
+.tabela
+{
+	padding-top: 1vw;
+	padding-bottom: 3vw;
 }
